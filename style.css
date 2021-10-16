@@ -1,0 +1,32 @@
+body{
+background-image: url(../img/764358.png);
+}
+.block__1{
+    font-size: 30px;
+    color:green;
+    text-decoration: none;
+}
+.block__2{
+    font-size: 30px;
+    text-decoration: none;
+    color: red;
+}
+.block__3{
+    font-size: 30px;
+    color: #00FFFF;
+    text-decoration: none;
+}
+.text{
+    font-size: 20px;
+}
+.text__2{
+    text-decoration: none;
+    font-size: 20px;
+    color:DimGray ;
+}
+.table{
+    font-size: 24px;
+}
+.line{
+margin-left:0%;
+}
